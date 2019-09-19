@@ -25,6 +25,6 @@ The program will take the two nunbers provided and print out a list of the prime
 # building
 The project is a simple maven project, so maven should be installed in order to compile and build the project. Once installed, navigate to the project root and execute:
   
-mvn package
+mvn clean package
 
 This command should be sufficient to download required packages, build, package, and test the project.
